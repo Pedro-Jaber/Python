@@ -1,0 +1,8 @@
+Esse código é um Banco com as principais funções (sacar, depositar, transferir e ver extrato)
+comente qualquer bug que aparecer que irei corrigir :)
+
+Caso vá usar:
+verifique se no arquivo “contas.txt” esta com uma linha em branco sobrando no final,caso não tenha, adicione para ficar desse jeito: 
+Exemplo:
+(linha 17)  @10088(8N5iQq)'Finn Caetano'$0.0)#-1000.0*)
+(linha 18)        
