@@ -87,6 +87,9 @@ if __name__ == '__main__':
     demolidor = Serie('demolidor', 2016, 2)
 
 
+    hilda.nome
+
+
     likes = True
     if likes == True:
         demolidor.dar_likes()
