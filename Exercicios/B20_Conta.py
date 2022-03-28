@@ -23,10 +23,6 @@ class Conta:
     def get_qtd_contas(cls):
         return Conta.qtd_contas
 
-    @staticmethod
-    def top_foda():
-        print("!TOP!")
-
     def get_nome(self):
         return self.nome
 
